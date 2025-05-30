@@ -64,12 +64,12 @@
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseCategories"
                     aria-expanded="true" aria-controls="collapseCategories">
                     <i class="fas fa-fw fa-cog"></i>
-                    <span>Thương hiệu</span>
+                    <span>Danh mục sản phẩm</span>
                 </a>
                 <div id="collapseCategories" class="collapse" aria-labelledby="collapseCategories" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="./list-categories.php">Danh sách thương hiệu</a>
-                        <a class="collapse-item" href="cards.html">Thêm mới</a>
+                        <a class="collapse-item" href="./list-categories.php">Danh sách danh mục</a>
+                        <a class="collapse-item" href="./add-products.php">Thêm mới</a>
                     </div>
                 </div>
             </li>
