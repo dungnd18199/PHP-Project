@@ -19,7 +19,7 @@
                                         placeholder="Nhập tên sản phẩm">
                                 </div>
                                 <div class="col-sm-12 mb-3">
-                                    <textarea class="form-control" id="sumary" name="sumary"
+                                    <textarea class="form-control" id="summary" name="summary"
                                         placeholder="Nhập mô tả ngắn"></textarea>
                                 </div>
                                 <div class="col-sm-12 mb-3">
@@ -59,15 +59,15 @@
                                     </select>
                                 </div>
                                 <div class="col-sm-4 mb-3">
-                                    <label for="stock">Kho hàng:</label>
-                                    <select class="form-control" name="stock" id="stock">
+                                    <label for="stock_status">Kho hàng:</label>
+                                    <select class="form-control" name="stock_status" id="stock_status">
                                         <option value="Còn hàng">Còn hàng</option>
                                         <option value="Hết hàng">Hết hàng</option>
                                     </select>
                                 </div>
                                 <div class="col-sm-4 mb-3">
-                                    <label for="quantity">Số lượng:</label>
-                                    <input type="text" class="form-control" id="quantity" name="quantity"
+                                    <label for="stock">Số lượng:</label>
+                                    <input type="text" class="form-control" id="stock" name="stock"
                                         placeholder="Nhập số lượng">
                                 </div>
                                 <div class="col-sm-4 mb-3">
